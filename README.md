@@ -15,3 +15,12 @@ Webscraping do site [plate mania](platesmania.com/) com dados apenas das placas 
 
 7. Rode e salve em um arquivo .txt com:
    `python playwrigth plates_mania.py >> <nome_do_estado>.txt`
+8. Saída sera como:
+  `mage 5:
+  Main Image URL = https://img03.platesmania.com/241023/m/26223037.jpg
+  License Image URL = https://img03.platesmania.com/241023/inf/26223037854080.png
+  License Plate = AGN 33A
+Image 6:
+  Main Image URL = https://img03.platesmania.com/241023/m/26223035.jpg
+  License Image URL = https://img03.platesmania.com/241023/inf/262230351afe3c.png
+  License Plate = MTREE`
