@@ -45,4 +45,4 @@ def scrape_images(count, url):
 
 address = "https://platesmania.com/us/gallery.php?region=7503"
 # Specify the number of images to scrape
-scrape_images(10,adress)
+scrape_images(10,address)
