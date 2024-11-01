@@ -13,7 +13,7 @@ Webscraping do site [plate mania](platesmania.com/) com dados apenas das placas 
    ```
 6. Instale os pacotes necessários:
    ```
-     pip install -r requirements.txt
+     pip install -r requeriments.txt
    ```
 8. Abra o script [playwrigth_plates_mania.py](https://github.com/MathLou/Plate_Mania_webscraper/blob/main/playwrigth_plate_mania.py) e mude o ```adress```para um dos estados desejados da coluna em rosa [neste link](https://platesmania.com/us/stat):
    
