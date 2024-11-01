@@ -43,6 +43,6 @@ def scrape_images(count, url):
         # Close the browser
         browser.close()
 
-adress = "https://platesmania.com/us/gallery.php?region=7503"
+address = "https://platesmania.com/us/gallery.php?region=7503"
 # Specify the number of images to scrape
 scrape_images(10,adress)
